@@ -1,0 +1,3 @@
+The Staging Area is a sort of a transitions state for files that will be in the directory but still aren't.
+You can use it to recap the changes you are about to make (throush status) and make sure you're not making any mistakes or forgetting anything.
+It will also probably become useful once you enter the sharing context of GitHub to distinguish between files that are ready to be shared and files who still need work done.

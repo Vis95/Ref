@@ -1,0 +1,2 @@
+Initializing a repository serves to create the necessary structure in the folder to make it a repository.
+You need to do it to be able to take advantage of all the tools git puts in your hands.
