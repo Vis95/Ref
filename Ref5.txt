@@ -1,0 +1,1 @@
+Through git log you can get a general idea of what has changed in the project, and to get the details you use git diff

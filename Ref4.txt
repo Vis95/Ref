@@ -1,0 +1,2 @@
+I think it's mostly due to the different uses they are meant for: google docs is probably ideal to share a document of a certain type with someone (for example a calendar or a list of things), whereas git is precisely meant to share bigger projects, spanning multiple files.
+There might also be a size factor, so that in git you are saving things locally, on your computer, and the amount of space you take is to your discretion, whereas google has to optimize the capacity of its data centers, and in order to do that only operates on the files it needs to operate on.

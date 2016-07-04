@@ -1,0 +1,3 @@
+Looking at versions of the same code side by side is not only useful when looking for typos or mistakes of sort in the code, it can also be really useful in comparing different ways of writing a certain secion of code which have the same function.
+In my experience with C++, I found that many times it's the subtle changes, like counting from x to 0, instead that from 0 to x, that make a code work universally rather than fail at some tasks.
+In the frame of sharing work, this is obviously incredibly useful to share ideas in a practical and immediate way, if I see the code you've wrote, I don't need you to explain the reasoning behind it.

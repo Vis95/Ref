@@ -1,0 +1,3 @@
+Manual saving of commits prevents useless waste of space and illogical aggregation of things.
+You might want to write some new things, or modify others, and test them before actually fixating them in the code, an automatic save feature would throw you off, because things get saved halfway through completion and so on.
+Also, once the automatic saves happened, to search for the interesting version of your code you have to scroll through a much larger number of them.
