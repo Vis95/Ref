@@ -1,0 +1,3 @@
+You can use a branch to label an important change in your code, like adding a core feature.
+This enables you to easily find the code relative to a specific function and work on that.
+It is also useful when you have two different solutions to the same problem and want to test them out both

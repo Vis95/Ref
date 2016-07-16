@@ -1,0 +1,2 @@
+Before issuing a commit you can checkout the changes you have introduced in the files through git diff and thus be sure you're not skipping steps.
+You can also be sure to only be committing the files you are sure work fine and not those who are stil experimental

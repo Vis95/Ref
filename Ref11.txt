@@ -1,0 +1,2 @@
+By merging two branches you no longer nedd to keep trak of how both are developing since they are now all under 'master'.
+It is represented that way because the latest commit has as 'parents' both branches of the repository
