@@ -1,0 +1,3 @@
+For exactly the same reasons you don't want Git to automatically commit your work and more.
+If somebody makes a change I might not want it in my code before checking it for myself, and I might not want to share my changes yet.
+Also, Git wouldn't know which branch to update to which remote, since both need to be specified, and making that process automated would be more liable to mistakes.

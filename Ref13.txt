@@ -1,0 +1,3 @@
+Working in remote is useful either when you are working with many people or on multiple machines at the same time.
+It makes sharing changes fast and easy, and allows to still track the history of a file to follow the changes that were made.
+In my particular case I would have no particular reason, for now, to work in remote, but learning new things is my jam
